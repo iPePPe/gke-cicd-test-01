@@ -1,1 +1,1 @@
-echo "Hello, world!" > file.txt
+echo "The time is $(date)." > file.txt
